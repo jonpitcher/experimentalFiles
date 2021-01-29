@@ -1,0 +1,12 @@
+<?php
+        //Enter your code here, enjoy!
+
+function myfunction($name){
+    
+    echo "My name is ${name}";
+}
+
+myfunction("Jonathan"); 
+
+
+
