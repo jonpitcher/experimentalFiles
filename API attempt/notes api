@@ -1,0 +1,102 @@
+notes api
+
+https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
+
+api is between the application and the server 
+
+communicate with third party software (difference between this and a database...
+how is this different than a weblet...?)
+
+JSON DATA in the HTML
+
+GET
+
+create= post
+
+read = get (retrieve)
+
+update = put/patch
+
+REST= just kind of web standard...
+
+div root id...? 
+
+connect to an api confusing because you can connect with python php javascript etc.
+sometimes connect curl and REST calls..
+
+API endpoint...
+
+JSON is used primarily for data...
+
+endpoint= when it connects to the software program..
+
+need to use objects to connect api using http request 
+
+xml vs json?  both used to retrieve data from a web server 
+
+xml has to be parsed... xml is more difficult in general 
+
+onload function vs open()...
+
+javascript fetch API? 
+
+XMLHttpRequest() -- kind of like a method
+
+request.open--- tells what website to go to...  
+
+onload... tells what to do with the data when you open it
+
+send = just launch everything
+
+dont get why we need xmlhttprequest just to make the object... (like the package)
+
+
+parse means CONVERT --- one kind of language to another basically
+
+json has to be converted or parsed into javascript or else cant read it 
+
+for vs foreach i dont get he difference 
+
+data variable after we parse it it's going to put all the data into a variable from the API... 
+
+404 not found 
+
+200 is ok 
+
+shift ctrl j is for console log in chrome 
+
+you dont need to put anything into javascript really... 
+
+you need to get it outside of the console... does it always work like that or is it just for show... 
+
+api works in similar way to php inserting data from a database
+
+basically json is like 
+
+DOM is actually an API lets communicate with html... (but its an api doesnt use a server...??? i thought had to use a server...)
+
+i should take notes just write it next to the code 
+
+
+
+https://www.youtube.com/watch?v=VukxN00bK_c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
